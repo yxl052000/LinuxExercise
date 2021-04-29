@@ -1,7 +1,7 @@
 # LinuxExercise
 Linux Exercise Project
 
-## 2021 4/14 Lunch Linux Vlass
+## 2021 4/14 Lunch Linux Class
 + hello
   + hello2
     +  hello3
